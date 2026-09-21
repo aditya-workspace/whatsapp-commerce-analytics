@@ -1,0 +1,11 @@
+true_intent,predicted_intent,count
+place_order,check_payment_methods,329
+track_order,get_refund,117
+check_refund_policy,get_refund,116
+track_order,delivery_period,107
+check_payment_methods,payment_issue,87
+payment_issue,complaint,83
+payment_issue,check_payment_methods,82
+delivery_period,track_order,75
+get_refund,check_refund_policy,70
+get_refund,cancel_order,66

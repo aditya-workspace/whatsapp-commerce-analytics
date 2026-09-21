@@ -1,0 +1,301 @@
+merchant_id,category,city,signup_date
+M0000,Pharmacy,Bangalore,2026-01-22
+M0001,Fashion,Pune,2026-03-01
+M0002,Electronics Repair,Hyderabad,2026-01-08
+M0003,Pharmacy,Kolkata,2026-01-03
+M0004,Pharmacy,Indore,2026-02-11
+M0005,Stationery,Bangalore,2026-01-01
+M0006,Grocery,Chennai,2026-03-22
+M0007,Electronics Repair,Pune,2026-01-10
+M0008,Grocery,Kolkata,2026-01-17
+M0009,Electronics Repair,Kolkata,2026-01-26
+M0010,Stationery,Pune,2026-02-12
+M0011,Mobile Recharge,Indore,2026-01-16
+M0012,Fashion,Bangalore,2026-01-28
+M0013,Bakery,Lucknow,2026-01-11
+M0014,Home Decor,Delhi,2026-02-10
+M0015,Bakery,Pune,2026-02-12
+M0016,Home Decor,Chennai,2026-01-04
+M0017,Pharmacy,Lucknow,2026-06-01
+M0018,Pharmacy,Jaipur,2026-01-17
+M0019,Home Decor,Indore,2026-02-21
+M0020,Fashion,Bangalore,2026-01-06
+M0021,Mobile Recharge,Kolkata,2026-01-02
+M0022,Pharmacy,Lucknow,2026-01-14
+M0023,Pharmacy,Kolkata,2026-01-17
+M0024,Fashion,Indore,2026-02-05
+M0025,Home Decor,Indore,2026-06-07
+M0026,Electronics Repair,Chennai,2026-05-07
+M0027,Grocery,Pune,2026-02-10
+M0028,Fashion,Chennai,2026-01-05
+M0029,Electronics Repair,Chennai,2026-01-03
+M0030,Stationery,Delhi,2026-01-23
+M0031,Mobile Recharge,Jaipur,2026-03-21
+M0032,Bakery,Jaipur,2026-01-15
+M0033,Home Decor,Pune,2026-01-07
+M0034,Fashion,Chennai,2026-01-04
+M0035,Bakery,Kolkata,2026-03-08
+M0036,Electronics Repair,Hyderabad,2026-01-01
+M0037,Mobile Recharge,Lucknow,2026-02-25
+M0038,Fashion,Kolkata,2026-03-08
+M0039,Electronics Repair,Jaipur,2026-01-20
+M0040,Grocery,Pune,2026-03-31
+M0041,Grocery,Jaipur,2026-01-19
+M0042,Stationery,Delhi,2026-01-17
+M0043,Pharmacy,Pune,2026-02-28
+M0044,Home Decor,Pune,2026-04-09
+M0045,Mobile Recharge,Lucknow,2026-01-06
+M0046,Mobile Recharge,Hyderabad,2026-03-06
+M0047,Fashion,Hyderabad,2026-03-08
+M0048,Electronics Repair,Kolkata,2026-02-03
+M0049,Fashion,Indore,2026-01-02
+M0050,Stationery,Indore,2026-01-02
+M0051,Stationery,Jaipur,2026-01-17
+M0052,Electronics Repair,Hyderabad,2026-04-18
+M0053,Mobile Recharge,Chennai,2026-01-24
+M0054,Grocery,Chennai,2026-01-12
+M0055,Bakery,Hyderabad,2026-01-16
+M0056,Stationery,Indore,2026-04-30
+M0057,Pharmacy,Lucknow,2026-02-15
+M0058,Stationery,Indore,2026-03-15
+M0059,Mobile Recharge,Kolkata,2026-04-11
+M0060,Fashion,Kolkata,2026-03-16
+M0061,Grocery,Chennai,2026-01-18
+M0062,Fashion,Jaipur,2026-01-12
+M0063,Pharmacy,Delhi,2026-03-18
+M0064,Stationery,Hyderabad,2026-01-01
+M0065,Mobile Recharge,Bangalore,2026-01-25
+M0066,Fashion,Kolkata,2026-01-06
+M0067,Bakery,Kolkata,2026-05-09
+M0068,Pharmacy,Delhi,2026-02-02
+M0069,Electronics Repair,Hyderabad,2026-01-21
+M0070,Home Decor,Hyderabad,2026-05-28
+M0071,Grocery,Indore,2026-01-31
+M0072,Home Decor,Ahmedabad,2026-01-16
+M0073,Grocery,Chennai,2026-02-12
+M0074,Home Decor,Delhi,2026-01-03
+M0075,Electronics Repair,Bangalore,2026-04-18
+M0076,Electronics Repair,Indore,2026-01-08
+M0077,Pharmacy,Chennai,2026-06-20
+M0078,Mobile Recharge,Chennai,2026-02-20
+M0079,Bakery,Hyderabad,2026-01-13
+M0080,Mobile Recharge,Kolkata,2026-01-21
+M0081,Bakery,Delhi,2026-02-15
+M0082,Stationery,Pune,2026-01-05
+M0083,Electronics Repair,Delhi,2026-01-18
+M0084,Stationery,Jaipur,2026-01-02
+M0085,Mobile Recharge,Kolkata,2026-02-20
+M0086,Mobile Recharge,Chennai,2026-02-02
+M0087,Electronics Repair,Pune,2026-02-16
+M0088,Pharmacy,Jaipur,2026-02-22
+M0089,Grocery,Indore,2026-05-05
+M0090,Electronics Repair,Indore,2026-01-19
+M0091,Electronics Repair,Bangalore,2026-04-27
+M0092,Pharmacy,Bangalore,2026-01-14
+M0093,Electronics Repair,Chennai,2026-03-18
+M0094,Grocery,Jaipur,2026-02-03
+M0095,Pharmacy,Kolkata,2026-01-05
+M0096,Electronics Repair,Delhi,2026-04-14
+M0097,Mobile Recharge,Pune,2026-01-19
+M0098,Bakery,Indore,2026-02-28
+M0099,Mobile Recharge,Pune,2026-04-09
+M0100,Mobile Recharge,Lucknow,2026-02-16
+M0101,Electronics Repair,Chennai,2026-01-08
+M0102,Pharmacy,Lucknow,2026-02-11
+M0103,Home Decor,Lucknow,2026-01-05
+M0104,Stationery,Ahmedabad,2026-01-01
+M0105,Grocery,Chennai,2026-02-05
+M0106,Grocery,Lucknow,2026-02-17
+M0107,Home Decor,Chennai,2026-02-26
+M0108,Electronics Repair,Pune,2026-01-18
+M0109,Electronics Repair,Kolkata,2026-02-17
+M0110,Mobile Recharge,Hyderabad,2026-02-18
+M0111,Stationery,Hyderabad,2026-01-05
+M0112,Fashion,Ahmedabad,2026-01-14
+M0113,Electronics Repair,Chennai,2026-06-12
+M0114,Mobile Recharge,Kolkata,2026-04-11
+M0115,Pharmacy,Bangalore,2026-03-13
+M0116,Grocery,Chennai,2026-02-08
+M0117,Electronics Repair,Hyderabad,2026-01-10
+M0118,Stationery,Ahmedabad,2026-01-15
+M0119,Mobile Recharge,Pune,2026-02-16
+M0120,Stationery,Bangalore,2026-05-07
+M0121,Bakery,Lucknow,2026-04-21
+M0122,Grocery,Lucknow,2026-01-01
+M0123,Fashion,Ahmedabad,2026-01-26
+M0124,Fashion,Lucknow,2026-05-30
+M0125,Mobile Recharge,Hyderabad,2026-01-16
+M0126,Electronics Repair,Delhi,2026-03-27
+M0127,Electronics Repair,Bangalore,2026-01-09
+M0128,Grocery,Jaipur,2026-05-04
+M0129,Grocery,Bangalore,2026-02-07
+M0130,Mobile Recharge,Kolkata,2026-02-12
+M0131,Bakery,Bangalore,2026-01-07
+M0132,Pharmacy,Hyderabad,2026-04-05
+M0133,Pharmacy,Indore,2026-02-23
+M0134,Pharmacy,Pune,2026-01-21
+M0135,Stationery,Chennai,2026-03-16
+M0136,Electronics Repair,Indore,2026-04-01
+M0137,Grocery,Indore,2026-02-02
+M0138,Pharmacy,Lucknow,2026-03-14
+M0139,Home Decor,Delhi,2026-02-24
+M0140,Electronics Repair,Jaipur,2026-04-10
+M0141,Electronics Repair,Delhi,2026-01-22
+M0142,Stationery,Hyderabad,2026-02-08
+M0143,Fashion,Ahmedabad,2026-01-29
+M0144,Home Decor,Chennai,2026-01-16
+M0145,Grocery,Ahmedabad,2026-01-02
+M0146,Pharmacy,Chennai,2026-03-19
+M0147,Electronics Repair,Kolkata,2026-01-07
+M0148,Fashion,Hyderabad,2026-03-08
+M0149,Home Decor,Chennai,2026-02-13
+M0150,Electronics Repair,Jaipur,2026-01-03
+M0151,Fashion,Hyderabad,2026-02-05
+M0152,Mobile Recharge,Kolkata,2026-02-28
+M0153,Fashion,Indore,2026-02-02
+M0154,Grocery,Kolkata,2026-03-13
+M0155,Fashion,Chennai,2026-01-27
+M0156,Bakery,Delhi,2026-01-02
+M0157,Pharmacy,Chennai,2026-03-23
+M0158,Bakery,Delhi,2026-01-24
+M0159,Fashion,Indore,2026-01-08
+M0160,Electronics Repair,Jaipur,2026-02-05
+M0161,Electronics Repair,Delhi,2026-02-18
+M0162,Mobile Recharge,Delhi,2026-05-20
+M0163,Grocery,Chennai,2026-02-06
+M0164,Stationery,Delhi,2026-01-25
+M0165,Grocery,Bangalore,2026-01-20
+M0166,Home Decor,Hyderabad,2026-01-01
+M0167,Fashion,Hyderabad,2026-01-03
+M0168,Mobile Recharge,Kolkata,2026-03-29
+M0169,Stationery,Kolkata,2026-01-29
+M0170,Grocery,Chennai,2026-01-31
+M0171,Pharmacy,Hyderabad,2026-01-09
+M0172,Grocery,Jaipur,2026-01-23
+M0173,Bakery,Lucknow,2026-02-15
+M0174,Bakery,Bangalore,2026-01-22
+M0175,Fashion,Jaipur,2026-02-01
+M0176,Grocery,Jaipur,2026-02-18
+M0177,Electronics Repair,Pune,2026-01-04
+M0178,Pharmacy,Jaipur,2026-01-02
+M0179,Stationery,Indore,2026-05-07
+M0180,Bakery,Pune,2026-01-23
+M0181,Bakery,Hyderabad,2026-01-28
+M0182,Stationery,Bangalore,2026-05-08
+M0183,Bakery,Jaipur,2026-05-27
+M0184,Stationery,Pune,2026-01-10
+M0185,Fashion,Hyderabad,2026-01-05
+M0186,Pharmacy,Lucknow,2026-01-05
+M0187,Grocery,Ahmedabad,2026-01-04
+M0188,Electronics Repair,Pune,2026-03-25
+M0189,Mobile Recharge,Jaipur,2026-03-17
+M0190,Fashion,Pune,2026-01-06
+M0191,Electronics Repair,Bangalore,2026-02-14
+M0192,Electronics Repair,Lucknow,2026-03-01
+M0193,Home Decor,Delhi,2026-01-15
+M0194,Pharmacy,Delhi,2026-03-04
+M0195,Home Decor,Kolkata,2026-06-20
+M0196,Stationery,Kolkata,2026-01-21
+M0197,Home Decor,Bangalore,2026-01-19
+M0198,Pharmacy,Delhi,2026-03-29
+M0199,Bakery,Indore,2026-03-04
+M0200,Fashion,Bangalore,2026-01-05
+M0201,Pharmacy,Indore,2026-02-01
+M0202,Stationery,Jaipur,2026-01-18
+M0203,Home Decor,Lucknow,2026-01-23
+M0204,Pharmacy,Lucknow,2026-04-17
+M0205,Electronics Repair,Delhi,2026-01-18
+M0206,Grocery,Lucknow,2026-05-16
+M0207,Grocery,Kolkata,2026-02-14
+M0208,Electronics Repair,Jaipur,2026-01-16
+M0209,Stationery,Chennai,2026-02-20
+M0210,Home Decor,Indore,2026-03-12
+M0211,Home Decor,Chennai,2026-01-05
+M0212,Fashion,Kolkata,2026-01-03
+M0213,Fashion,Lucknow,2026-01-27
+M0214,Home Decor,Lucknow,2026-01-20
+M0215,Fashion,Kolkata,2026-01-07
+M0216,Bakery,Pune,2026-02-13
+M0217,Stationery,Lucknow,2026-01-04
+M0218,Bakery,Indore,2026-01-04
+M0219,Fashion,Lucknow,2026-02-25
+M0220,Grocery,Delhi,2026-01-04
+M0221,Fashion,Pune,2026-01-22
+M0222,Stationery,Indore,2026-03-17
+M0223,Home Decor,Ahmedabad,2026-06-20
+M0224,Mobile Recharge,Ahmedabad,2026-01-22
+M0225,Electronics Repair,Kolkata,2026-03-09
+M0226,Mobile Recharge,Hyderabad,2026-01-25
+M0227,Pharmacy,Delhi,2026-01-06
+M0228,Home Decor,Chennai,2026-01-01
+M0229,Electronics Repair,Delhi,2026-01-03
+M0230,Electronics Repair,Pune,2026-01-06
+M0231,Bakery,Bangalore,2026-03-03
+M0232,Grocery,Pune,2026-05-28
+M0233,Mobile Recharge,Indore,2026-01-16
+M0234,Pharmacy,Ahmedabad,2026-01-12
+M0235,Stationery,Indore,2026-01-01
+M0236,Electronics Repair,Lucknow,2026-01-02
+M0237,Mobile Recharge,Lucknow,2026-02-03
+M0238,Electronics Repair,Hyderabad,2026-01-04
+M0239,Grocery,Chennai,2026-06-06
+M0240,Stationery,Pune,2026-02-14
+M0241,Bakery,Kolkata,2026-01-28
+M0242,Mobile Recharge,Bangalore,2026-02-09
+M0243,Electronics Repair,Chennai,2026-01-03
+M0244,Mobile Recharge,Hyderabad,2026-05-16
+M0245,Mobile Recharge,Kolkata,2026-01-28
+M0246,Home Decor,Ahmedabad,2026-01-15
+M0247,Stationery,Kolkata,2026-01-29
+M0248,Mobile Recharge,Hyderabad,2026-02-09
+M0249,Mobile Recharge,Ahmedabad,2026-06-14
+M0250,Fashion,Pune,2026-02-23
+M0251,Fashion,Kolkata,2026-01-17
+M0252,Mobile Recharge,Pune,2026-02-21
+M0253,Fashion,Ahmedabad,2026-04-19
+M0254,Pharmacy,Delhi,2026-05-15
+M0255,Electronics Repair,Delhi,2026-02-12
+M0256,Home Decor,Jaipur,2026-05-02
+M0257,Pharmacy,Hyderabad,2026-01-03
+M0258,Bakery,Pune,2026-01-22
+M0259,Stationery,Hyderabad,2026-06-20
+M0260,Electronics Repair,Chennai,2026-02-10
+M0261,Stationery,Lucknow,2026-06-07
+M0262,Home Decor,Kolkata,2026-03-23
+M0263,Mobile Recharge,Lucknow,2026-01-25
+M0264,Grocery,Pune,2026-01-03
+M0265,Stationery,Lucknow,2026-03-17
+M0266,Grocery,Indore,2026-06-20
+M0267,Stationery,Ahmedabad,2026-03-07
+M0268,Grocery,Jaipur,2026-03-27
+M0269,Fashion,Lucknow,2026-01-27
+M0270,Stationery,Kolkata,2026-05-19
+M0271,Electronics Repair,Ahmedabad,2026-01-12
+M0272,Electronics Repair,Delhi,2026-02-13
+M0273,Stationery,Ahmedabad,2026-01-06
+M0274,Grocery,Lucknow,2026-02-03
+M0275,Home Decor,Lucknow,2026-02-03
+M0276,Bakery,Ahmedabad,2026-02-06
+M0277,Bakery,Indore,2026-04-05
+M0278,Grocery,Lucknow,2026-01-07
+M0279,Grocery,Chennai,2026-03-05
+M0280,Stationery,Hyderabad,2026-02-24
+M0281,Mobile Recharge,Hyderabad,2026-01-07
+M0282,Grocery,Delhi,2026-01-20
+M0283,Stationery,Jaipur,2026-01-23
+M0284,Electronics Repair,Ahmedabad,2026-04-16
+M0285,Home Decor,Jaipur,2026-02-02
+M0286,Stationery,Delhi,2026-01-23
+M0287,Stationery,Delhi,2026-03-31
+M0288,Pharmacy,Ahmedabad,2026-01-08
+M0289,Grocery,Kolkata,2026-01-31
+M0290,Grocery,Jaipur,2026-01-28
+M0291,Electronics Repair,Chennai,2026-01-31
+M0292,Grocery,Bangalore,2026-02-15
+M0293,Electronics Repair,Pune,2026-01-04
+M0294,Grocery,Indore,2026-01-07
+M0295,Bakery,Pune,2026-01-07
+M0296,Bakery,Ahmedabad,2026-01-10
+M0297,Pharmacy,Indore,2026-04-13
+M0298,Electronics Repair,Ahmedabad,2026-02-19
+M0299,Fashion,Jaipur,2026-01-10
